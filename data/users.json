@@ -1,0 +1,37 @@
+[
+  {
+    "id": "u1",
+    "email": "admin@techcorp.com",
+    "password": "hashed_password_here",
+    "name": "Tech Corp HR",
+    "role": "provider",
+    "companyId": "c1",
+    "createdAt": "2023-01-15T10:30:00Z"
+  },
+  {
+    "id": "u2",
+    "email": "admin@innovatech.com",
+    "password": "hashed_password_here",
+    "name": "InnovaTech Recruiter",
+    "role": "provider",
+    "companyId": "c2",
+    "createdAt": "2023-02-10T09:15:00Z"
+  },
+  {
+    "id": "u3",
+    "email": "candidate@example.com",
+    "password": "hashed_password_here",
+    "name": "Jane Smith",
+    "role": "candidate",
+    "createdAt": "2023-02-20T14:15:00Z"
+  },
+  {
+    "id": "u4",
+    "email": "john@example.com",
+    "password": "hashed_password_here",
+    "name": "John Doe",
+    "role": "candidate",
+    "createdAt": "2023-03-05T11:30:00Z"
+  }
+]
+

@@ -1,0 +1,59 @@
+[
+  {
+    "id": "jr1",
+    "companyId": "c1",
+    "title": "Frontend Developer",
+    "description": "Responsible for implementing visual elements that users see and interact with in a web application.",
+    "skills": ["React", "JavaScript", "CSS", "HTML", "TypeScript"],
+    "level": "Mid-Level",
+    "active": true,
+    "location": "San Francisco, CA (Hybrid)",
+    "salary": "$90,000 - $120,000",
+    "questionCount": 3,
+    "selectedQuestions": ["q1", "q2"],
+    "useAIGeneration": false
+  },
+  {
+    "id": "jr2",
+    "companyId": "c1",
+    "title": "Backend Developer",
+    "description": "Responsible for server-side web application logic and integration of the work front-end developers do.",
+    "skills": ["Node.js", "Express", "SQL", "MongoDB", "API Design"],
+    "level": "Senior",
+    "active": true,
+    "location": "San Francisco, CA (Remote)",
+    "salary": "$120,000 - $150,000",
+    "questionCount": 2,
+    "selectedQuestions": ["q3", "q4"],
+    "useAIGeneration": false
+  },
+  {
+    "id": "jr3",
+    "companyId": "c2",
+    "title": "Machine Learning Engineer",
+    "description": "Design and implement machine learning models to solve complex business problems.",
+    "skills": ["Python", "TensorFlow", "PyTorch", "Data Science", "NLP"],
+    "level": "Senior",
+    "active": true,
+    "location": "Boston, MA (Onsite)",
+    "salary": "$130,000 - $160,000",
+    "questionCount": 3,
+    "selectedQuestions": ["q5", "q6"],
+    "useAIGeneration": false
+  },
+  {
+    "id": "jr4",
+    "companyId": "c2",
+    "title": "Full Stack Developer",
+    "description": "Handles both front-end and back-end development, creating a seamless user experience.",
+    "skills": ["React", "Node.js", "TypeScript", "MongoDB", "Git"],
+    "level": "Mid-Level",
+    "active": true,
+    "location": "Boston, MA (Remote)",
+    "salary": "$100,000 - $130,000",
+    "questionCount": 3,
+    "selectedQuestions": ["q1", "q3", "q5"],
+    "useAIGeneration": false
+  }
+]
+

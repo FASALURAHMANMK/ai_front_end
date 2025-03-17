@@ -1,0 +1,30 @@
+[
+  {
+    "id": "c1",
+    "name": "Tech Corp",
+    "description": "A leading technology company specializing in software development and cloud solutions.",
+    "logo": "/companies/techcorp-logo.svg",
+    "industry": "Technology",
+    "location": "San Francisco, CA",
+    "website": "https://techcorp.example.com"
+  },
+  {
+    "id": "c2",
+    "name": "InnovaTech",
+    "description": "An innovative startup focused on AI and machine learning applications.",
+    "logo": "/companies/innovatech-logo.svg",
+    "industry": "Artificial Intelligence",
+    "location": "Boston, MA",
+    "website": "https://innovatech.example.com"
+  },
+  {
+    "id": "c3",
+    "name": "Global Finance",
+    "description": "A financial services company providing banking and investment solutions.",
+    "logo": "/companies/globalfinance-logo.svg",
+    "industry": "Finance",
+    "location": "New York, NY",
+    "website": "https://globalfinance.example.com"
+  }
+]
+

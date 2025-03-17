@@ -1,0 +1,81 @@
+[
+  {
+    "id": "i1",
+    "userId": "u3",
+    "jobRoleId": "jr1",
+    "companyId": "c1",
+    "status": "completed",
+    "applicationStatus": "under_review",
+    "startedAt": "2023-03-10T09:00:00Z",
+    "completedAt": "2023-03-10T09:30:00Z",
+    "score": 85,
+    "feedback": "Strong understanding of React concepts. Could improve on performance optimization knowledge.",
+    "responses": [
+      {
+        "questionId": "q1",
+        "response": "Controlled components have form data handled by React components, while uncontrolled components store form data in the DOM.",
+        "score": 90,
+        "feedback": "Excellent explanation of the core difference."
+      },
+      {
+        "questionId": "q2",
+        "response": "To optimize React: use React.memo for component memoization, virtualize long lists, lazy load components, and minimize state updates.",
+        "score": 80,
+        "feedback": "Good points on optimization techniques. Consider mentioning code splitting as well."
+      }
+    ]
+  },
+  {
+    "id": "i2",
+    "userId": "u4",
+    "jobRoleId": "jr3",
+    "companyId": "c2",
+    "status": "completed",
+    "applicationStatus": "hired",
+    "startedAt": "2023-03-15T14:00:00Z",
+    "completedAt": "2023-03-15T14:45:00Z",
+    "score": 92,
+    "feedback": "Exceptional understanding of machine learning concepts and practical implementation. Great problem-solving skills.",
+    "responses": [
+      {
+        "questionId": "q5",
+        "response": "When choosing between supervised and unsupervised learning, consider if you have labeled data and the specific problem you're trying to solve...",
+        "score": 95,
+        "feedback": "Comprehensive answer showing deep understanding of ML paradigms."
+      },
+      {
+        "questionId": "q6",
+        "response": "To prevent overfitting in a neural network, I would use techniques like dropout, early stopping, and regularization...",
+        "score": 90,
+        "feedback": "Excellent practical knowledge of preventing overfitting."
+      }
+    ]
+  },
+  {
+    "id": "i3",
+    "userId": "u3",
+    "jobRoleId": "jr4",
+    "companyId": "c2",
+    "status": "completed",
+    "applicationStatus": "rejected",
+    "startedAt": "2023-03-20T10:00:00Z",
+    "completedAt": "2023-03-20T10:30:00Z",
+    "score": 65,
+    "feedback": "Shows basic understanding of full-stack development but lacks depth in some critical areas.",
+    "responses": [
+      {
+        "questionId": "q1",
+        "response": "Controlled components use state while uncontrolled ones don't.",
+        "score": 60,
+        "feedback": "Answer is correct but lacks detail and explanation."
+      },
+      {
+        "questionId": "q3",
+        "response": "Middleware in Express.js sits between the request and response cycle.",
+        "score": 70,
+        "feedback": "Basic understanding demonstrated but missing practical examples."
+      }
+    ]
+  }
+]
+

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "q1",
+    "poolId": "pool1",
+    "text": "Explain the difference between controlled and uncontrolled components in React.",
+    "difficulty": "medium",
+    "timeLimit": 120,
+    "responseTypes": ["text", "audio"],
+    "options": []
+  },
+  {
+    "id": "q2",
+    "poolId": "pool1",
+    "text": "How would you optimize the performance of a React application?",
+    "difficulty": "hard",
+    "timeLimit": 180,
+    "responseTypes": ["text"],
+    "options": []
+  },
+  {
+    "id": "q3",
+    "poolId": "pool2",
+    "text": "Explain the concept of middleware in Express.js and provide an example.",
+    "difficulty": "medium",
+    "timeLimit": 120,
+    "responseTypes": ["text", "multiple-choice"],
+    "options": [
+      "Middleware functions are functions that have access to the request and response objects",
+      "Middleware functions can only be used for authentication",
+      "Middleware functions cannot modify the request and response objects",
+      "Express.js doesn't support middleware"
+    ]
+  },
+  {
+    "id": "q4",
+    "poolId": "pool2",
+    "text": "How would you handle authentication in a Node.js application?",
+    "difficulty": "hard",
+    "timeLimit": 180,
+    "responseTypes": ["text", "multiple-choice"],
+    "options": [
+      "Using JWT (JSON Web Tokens)",
+      "Using session-based authentication",
+      "Using OAuth",
+      "Authentication is not necessary in Node.js applications"
+    ]
+  }
+]
+

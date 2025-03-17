@@ -1,0 +1,25 @@
+[
+  {
+    "id": "jr1",
+    "title": "Frontend Developer",
+    "description": "Responsible for implementing visual elements that users see and interact with in a web application.",
+    "skills": ["React", "JavaScript", "CSS", "HTML", "TypeScript"],
+    "level": "Mid-Level",
+    "active": true,
+    "questionCount": 2,
+    "selectedQuestions": ["q1", "q2"],
+    "useAIGeneration": false
+  },
+  {
+    "id": "jr2",
+    "title": "Backend Developer",
+    "description": "Responsible for server-side web application logic and integration of the work front-end developers do.",
+    "skills": ["Node.js", "Express", "SQL", "MongoDB", "API Design"],
+    "level": "Senior",
+    "active": true,
+    "questionCount": 2,
+    "selectedQuestions": ["q3", "q4"],
+    "useAIGeneration": false
+  }
+]
+

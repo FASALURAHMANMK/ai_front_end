@@ -1,0 +1,57 @@
+[
+  {
+    "id": "q1",
+    "jobRoleId": "jr1",
+    "text": "Explain the difference between controlled and uncontrolled components in React.",
+    "difficulty": "medium",
+    "timeLimit": 120,
+    "responseType": "text",
+    "active": true
+  },
+  {
+    "id": "q2",
+    "jobRoleId": "jr1",
+    "text": "How would you optimize the performance of a React application?",
+    "difficulty": "hard",
+    "timeLimit": 180,
+    "responseType": "text",
+    "active": true
+  },
+  {
+    "id": "q3",
+    "jobRoleId": "jr2",
+    "text": "Explain the concept of middleware in Express.js and provide an example.",
+    "difficulty": "medium",
+    "timeLimit": 120,
+    "responseType": "text",
+    "active": true
+  },
+  {
+    "id": "q4",
+    "jobRoleId": "jr2",
+    "text": "How would you handle authentication in a Node.js application?",
+    "difficulty": "hard",
+    "timeLimit": 180,
+    "responseType": "text",
+    "active": true
+  },
+  {
+    "id": "q5",
+    "jobRoleId": "jr3",
+    "text": "Explain your approach to building a full-stack application from scratch.",
+    "difficulty": "hard",
+    "timeLimit": 240,
+    "responseType": "video",
+    "active": true
+  },
+  {
+    "id": "q6",
+    "jobRoleId": "jr4",
+    "text": "Describe how you would set up a CI/CD pipeline for a microservices architecture.",
+    "difficulty": "hard",
+    "timeLimit": 240,
+    "responseType": "text",
+    "active": true
+  }
+]
+

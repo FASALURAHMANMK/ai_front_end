@@ -1,0 +1,18 @@
+[
+  {
+    "id": "pool1",
+    "name": "Frontend Development",
+    "description": "Questions related to frontend development concepts and technologies"
+  },
+  {
+    "id": "pool2",
+    "name": "Backend Development",
+    "description": "Questions related to backend development and server-side technologies"
+  },
+  {
+    "id": "pool3",
+    "name": "General Programming",
+    "description": "General programming concepts and problem-solving questions"
+  }
+]
+
